@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="507512a6-d23e-44d5-80b3-aed530dd6b64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bucles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej30.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2o3hgCWI3cn2YyBAEkfeAPydM9L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ej19.executor": "Run",
+    "Application.ej20.executor": "Debug",
+    "Application.ej21.executor": "Run",
+    "Application.ej22.executor": "Run",
+    "Application.ej23.executor": "Run",
+    "Application.ej24.executor": "Run",
+    "Application.ej25.executor": "Run",
+    "Application.ej26.executor": "Run",
+    "Application.ej27.executor": "Run",
+    "Application.ej28.executor": "Run",
+    "Application.ej29.executor": "Run",
+    "Application.ej30.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/hecencelb/IdeaProjects/Bucles",
+    "onboarding.tips.debug.path": "/home/hecencelb/IdeaProjects/Bucles/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="507512a6-d23e-44d5-80b3-aed530dd6b64" name="Changes" comment="" />
+      <created>1730104277233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730104277233</updated>
+    </task>
+    <servers />
+  </component>
+</project>
