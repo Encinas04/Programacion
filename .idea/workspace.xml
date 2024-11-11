@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="507512a6-d23e-44d5-80b3-aed530dd6b64" name="Changes" comment="Hasta el ejercicio 30. Mirar como funcionan las String en casa.">
+    <list default="true" id="507512a6-d23e-44d5-80b3-aed530dd6b64" name="Changes" comment="todo hecho">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ej30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ej30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ej25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ej25.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Encinas04"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Encinas04&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Encinas04/Programacion.git",
-    "accountId": "72110f36-8a68-4418-9a7b-3d4c8c03f66e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Encinas04/Programacion.git&quot;,
+    &quot;accountId&quot;: &quot;72110f36-8a68-4418-9a7b-3d4c8c03f66e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -52,7 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ej19.executor": "Run",
-    "Application.ej20.executor": "Debug",
+    "Application.ej20.executor": "Run",
     "Application.ej21.executor": "Run",
     "Application.ej22.executor": "Run",
     "Application.ej23.executor": "Run",
@@ -96,11 +96,20 @@
       <option name="project" value="LOCAL" />
       <updated>1730982056341</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="todo hecho">
+      <option name="closed" value="true" />
+      <created>1730983789345</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730983789345</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hasta el ejercicio 30. Mirar como funcionan las String en casa." />
-    <option name="LAST_COMMIT_MESSAGE" value="Hasta el ejercicio 30. Mirar como funcionan las String en casa." />
+    <MESSAGE value="todo hecho" />
+    <option name="LAST_COMMIT_MESSAGE" value="todo hecho" />
   </component>
 </project>
